@@ -28,10 +28,10 @@ The system employs **machine learning models** to predict the probability of vac
 
 The models used may include:
 - **Logistic Regression**
-- **Decision Trees**
 - **Random Forest**
+- **Support Vector Machine (SVM)**
 - **XGBoost**
-- **Neural Networks**
+- **Multi Layer Perceptron (MLP)**
 
 Predictions are provided along with **confidence intervals** to indicate reliability.
 
